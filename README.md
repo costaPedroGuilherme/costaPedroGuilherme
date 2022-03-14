@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, World! 👋
+
+**Me chamo Pedro Guilherme Costa**, apaixonade por tecnologia, design e programação ❤. Amo aprender, curiose, quero estudar para desenvolver arte com códigos 🌱. Eu codo com JavaScript,TypeScript, Sass, entre outros.
+
+Sou formade em Análise e Desenvolvimento de Sistemas e Técnico em Informática, continuo com sede de conhecimento.
 
 <!--
 **costaPedroGuilherme/costaPedroGuilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
