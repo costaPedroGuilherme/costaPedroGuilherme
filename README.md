@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-**Me chamo Pedro Guilherme Costa**, Sou apaixonado por inovação e programação. Meu objetivo é constantemente evoluir para criar soluções que impactem positivamente a vida das pessoas. 🧑‍🚀🚀
+**Me chamo Pedro Guilherme Costa**, sou apaixonado por inovação e programação. Meu objetivo é constantemente evoluir para criar soluções que impactem positivamente a vida das pessoas. 🧑‍🚀🚀
 
 Sou formado em Análise e Desenvolvimento de Sistemas e Técnico em Informática, continuo com sede de conhecimento.
 
